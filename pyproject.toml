@@ -8,6 +8,7 @@ dependencies = [
     "fastapi>=0.127.0",
     "joblib>=1.5.2",
     "jupyter-core>=5.9.1",
+    "kagglehub>=0.3.13",
     "matplotlib>=3.10.8",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
