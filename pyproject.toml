@@ -10,6 +10,7 @@ dependencies = [
     "jupyter-core>=5.9.1",
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "plotly>=6.5.0",
