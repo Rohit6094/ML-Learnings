@@ -1,0 +1,78 @@
+INDICATORS TO AVOID (AND WHY)
+
+This part is extremely important and rarely explained well.
+
+❌ Indicators That Are Often Misused
+1️⃣ Too Many Oscillators Together
+
+Examples:
+
+    RSI + Stochastic + Williams %R
+
+    Why to avoid
+
+    They measure the SAME thing (momentum)
+
+    Highly correlated → fake confirmation
+
+    ✅ Fix: Use ONE oscillator + ONE trend indicator
+
+2️⃣ Lag-on-Lag Indicators
+
+Examples:
+
+    SMA + EMA + MACD together
+
+    Why to avoid
+
+    All are lagging
+
+    You react late to reversals
+
+    ✅ Fix: Combine lagging (EMA) + leading (RSI / OBV)
+
+3️⃣ Indicators Without Context
+
+Example:
+
+    RSI overbought in strong trend
+
+    Why wrong
+
+    RSI can stay >70 for long time in trends
+
+    Causes premature exits
+
+    ✅ Fix: Use RSI ONLY when ADX < 20 (range)
+
+4️⃣ Ichimoku + Multiple MAs
+
+    Why to avoid
+
+    Ichimoku already includes averages
+
+    Redundant & cluttered charts
+
+    ✅ Fix: Ichimoku alone OR EMA-based system
+
+5️⃣ Volume Indicators on Low-Quality Data
+
+Examples:
+
+    OBV / VWAP on illiquid assets
+
+    Why to avoid
+
+    Garbage volume = garbage signals
+
+    ✅ Fix: Use volume indicators only on liquid markets
+
+🧠 Professional Rule of Thumb
+
+    Never use more than one indicator per category
+
+    Category	        Pick ONE
+    Trend	            EMA or Ichimoku
+    Momentum	        RSI
+    Volatility	        ATR
+    Volume	            VWAP or OBV
